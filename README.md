@@ -14,7 +14,6 @@ Sou estudante e tenho interesse em tecnologia, programação e inteligência art
 ### ⚙️ Dev Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamilly-gr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamilly-gr&layout=compact&langs_count=7&theme=radical)
 
 
